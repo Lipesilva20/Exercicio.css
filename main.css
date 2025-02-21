@@ -1,0 +1,99 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: contents;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+.creation-date {
+    color: #000000cc;
+    font-weight: 200;
+}
+ #tecnologia h2 {
+    color: blue;
+    text-align: center;
+    padding: 0px 50px;
+ }
+
+ #entreterimento h2 {
+    color: chartreuse;
+    text-align: center;
+    padding: 0px 50px;
+ }
+
+ img {
+   /* height: 100px; */
+   width: 100%;
+    
+ }
+
+ nav a:hover {
+    color: brown;
+ }
+
+ p a {
+    color: red; 
+    font-weight: 900;   
+     }
+
+ .container {
+    width: 1366px;
+    margin: 0 auto;
+ }
+
+body > header {
+   background-color: orange ;
+   padding: 16px 0 ;
+ }
+
+ section {
+   padding: 16px 0;
+ }
+
+ section h2 {
+   margin-bottom: 16px;
+ }
+
+ .container h3 {
+   margin-top: 16px;
+   margin-bottom: 16px;
+ }
+ .container h2 {
+   margin-top: 16px;
+   margin-bottom: 16px;
+ }
+
+ .container p  {
+   font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .container h3 {
+   font-size: 30px;
+ } 
+ section h2 {
+   font-size: 35px;
+ }
+
+ #tecnologia {
+   background-color: rgba(153, 48, 153, 0.548);
+ }
+
+ .container a {
+   margin-left: 8px;
+ }
+
+ #entreterimento {
+   background-color: rgba(0, 255, 255, 0.452);
+ }
